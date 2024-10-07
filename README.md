@@ -4,7 +4,7 @@
 
 <p><i>Screenshot da página:</i><p>
 
-<img src=""/>
+<img src="https://github.com/rachelbsa/mario/blob/main/screenshot.png?raw=true"/>
 
 <h3>Descrição</h3>
 
