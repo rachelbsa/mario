@@ -8,7 +8,7 @@
 
 <p><i>Responsividade:</i><p>
 
-<img src=""/>
+<img src="https://github.com/rachelbsa/mario/blob/main/responsividade%20screenshot.png?raw=true"/>
 
 <h3>Descrição</h3>
 
